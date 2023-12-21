@@ -1,5 +1,7 @@
 【运行截图】
 
+![Image text](https://github.com/bigbigbigboss/AutoClick/blob/main/AutoClick.png)
+
 【环境要求】
 windows+.net framework4.0
 
