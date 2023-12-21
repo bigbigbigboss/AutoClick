@@ -1,0 +1,11 @@
+E:\VSCode\AutoClick\AutoClick\bin\Debug\AutoClick.exe
+E:\VSCode\AutoClick\AutoClick\bin\Debug\AutoClick.pdb
+E:\VSCode\AutoClick\AutoClick\obj\Debug\AutoClick.MainForm.resources
+E:\VSCode\AutoClick\AutoClick\obj\Debug\AutoClick.Properties.Resources.resources
+E:\VSCode\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.GenerateResource.cache
+E:\VSCode\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.CoreCompileInputs.cache
+E:\VSCode\AutoClick\AutoClick\obj\Debug\AutoClick.exe
+E:\VSCode\AutoClick\AutoClick\obj\Debug\AutoClick.pdb
+E:\VSCode\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.AssemblyReference.cache
+E:\VSCode\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.SuggestedBindingRedirects.cache
+E:\VSCode\AutoClick\AutoClick\bin\Debug\AutoClick.exe.config
